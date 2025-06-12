@@ -1,4 +1,4 @@
-# AdapterPattern
+# Adapter (A structural design pattern)
 The repo implement Adapter Structural design pattern using the Swift programming language.
 
 ## Adapter
